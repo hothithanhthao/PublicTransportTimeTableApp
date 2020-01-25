@@ -26,4 +26,5 @@ or you can run the Docker image from the project
 $ cd ../timetable-app
 $ docker image build -t react:timetable .
 $ docker run -it -p 3000:3000 react:timetable /bin/bash
+$ root@d007cc6e1a27:/app# npm start
  

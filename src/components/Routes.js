@@ -8,7 +8,7 @@ const Courses = () => (
     query={gql`
     {
       plan(
-        fromPlace: "Eficode Oy, Helsinki::60.169392,24.925751",
+        fromPlace: "Helsingin Olympiastadion::60.187030,24.928410",
         toPlace: "Kotipizza Helsinki Kruununhaka::60.170720,24.956420",
       ) {
         itineraries {

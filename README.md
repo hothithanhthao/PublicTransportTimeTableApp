@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a simple public transport React app for cheking the schedule between Eficode Oy and Kotipizza Helsinki Kruununhaka
+This project is a simple public transport React app for cheking the schedule between Helsinki Olympic Stadium and Kotipizza Helsinki Kruununhaka
 
 ## Technologies
 Project is created with:
